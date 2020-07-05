@@ -1,0 +1,9 @@
+db:
+  host: 'localhost'
+  port: 7555
+  username: 'postgres'
+  password: 'postgres'
+  synchronize: true
+
+jwt:
+  secret: 'Al3@t0r!0'
